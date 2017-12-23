@@ -7,10 +7,6 @@ import java.util.Scanner;
  * @author Tabinda Khan
  */
 public class Hashmaps {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         int i;
         int index = 7;
