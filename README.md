@@ -1,12 +1,13 @@
 # Hashmap
 import java.util.HashMap;
 import java.util.Scanner;
-
 /**
  *
  * @author Tabinda Khan
  */
+ 
 public class Hashmaps {
+
     public static void main(String[] args) {
         int i;
         int index = 7;
